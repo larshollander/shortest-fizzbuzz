@@ -10,6 +10,7 @@ To learn more and see clean versions, see: https://wiki.c2.com/?FizzBuzzTest
 ** **
 
 ## Languages:
+- [Assembly](Assembly.s), 500 bytes
 - [C](C.c), 104 bytes
 - [C++](C++.cpp), 231 bytes
 - [Dart](Dart.dart), 124 bytes
